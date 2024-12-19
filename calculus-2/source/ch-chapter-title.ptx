@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>A Review of Calculus I</title>
+
+  <introduction>
+    <p> In this section, the materical covered in Calculus I will be given a high-level review. This is not intended to be an exhaustive review of a first course in Calculus.</p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="ws-review-of-calc-one.ptx" />
+
+</chapter>
